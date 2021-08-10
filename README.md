@@ -7,7 +7,7 @@ My Polybar and others setup for BSPWM on Linux
 # Dependencies
 + [bspwm](https://github.com/baskerville/bspwm)
 + [polybar](https://github.com/polybar/polybar)
-+ [fonts](https://github.com/terroo/fonts)`rm -rf ~/.local/share/fonts`
++ [fonts](https://github.com/terroo/fonts) `rm -rf ~/.local/share/fonts`
 + [git](https://git-scm.com)
 + [feh](https://feh.finalrewind.org/) 
 + [Lua](https://www.lua.org/)
