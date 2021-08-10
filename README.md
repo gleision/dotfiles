@@ -49,6 +49,12 @@ mv wallpaper.jpg ~/Pictures
 feh --bg-scale ~/Pictures/wallpaper.jpg
 ```
 
+Change the Gentoo icon according to your system, see all available icons by running the file:
+```sh
+lua systems-icons.lua
+```
+
+
 If you want, change the name TERROO to your name, for example:
 ```sh
 sed -i "s/TERROO/$USER/g" ~/.config/polybar/config
