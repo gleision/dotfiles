@@ -7,9 +7,9 @@ My Polybar and others setup for BSPWM on Linux
 # Dependencies
 + [bspwm](https://github.com/baskerville/bspwm)
 + [polybar](https://github.com/polybar/polybar)
-+ [fonts](https://github.com/terroo/fonts)
++ [fonts](https://github.com/terroo/fonts)`rm -rf ~/.local/share/fonts`
 + [git](https://git-scm.com)
-+ [feh](https://feh.finalrewind.org/) `rm -rf ~/.local/share/fonts`
++ [feh](https://feh.finalrewind.org/) 
 + [Lua](https://www.lua.org/)
 + [wmctrl](http://tripie.sweb.cz/utils/wmctrl/) `sudo apt install wmctrl`
 > Most of the dependencies mentioned above were made in this video: <https://www.youtube.com/watch?v=CivY-yfRBeY>
