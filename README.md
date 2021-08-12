@@ -30,10 +30,7 @@ Move(and/or remove) files
 rm -rf ~/.config/polybar
 mv polybar $HOME/.config
 mv Xresources $HOME/.Xresources
-mkdir -p ~/.config/rofi/scripts
-mv menu_apps.sh ~/.config/rofi/scripts/
 ```
-> Remember to have the `reboot` and `poweroff` option set for your username without needing a password in: `/etc/sudoers`
 
 # Configurations
 Add to your `$HOME/.config/bspwm/bspwmrc`:
