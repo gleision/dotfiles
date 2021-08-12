@@ -69,5 +69,5 @@ bspc quit
 ```
 
 # Watch Video
-[![Dotfiles Marcos Oliveira](./image-to-video "Dotfiles Marcos Oliveira")](https://www.youtube.com/TerminalRootTV)
+[![Dotfiles Marcos Oliveira](./video.png "Dotfiles Marcos Oliveira")](https://www.youtube.com/watch?v=5UHDruEz7dI)
 
